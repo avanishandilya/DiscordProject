@@ -3,6 +3,23 @@ Discord is a messaging app that people use to connect with each other. It has gr
 
 I became interested in trends of Discord servers. It was very interesting to see patterns as time goes on. Therefore, I decided to create my own dataset and analyze the data with Python and Pandas.
 
+## Goals of the Project 
+The goal of the project was to do exploratory analysis. Additionally, gain new skills in data analysis. 
+A more personal goal was to see the interactions of people and find noticeable trends in interactions as time goes on. 
+
+## Plan for the Project 
+The general plan of the project was: 
+1. Find a question to answer 
+2. Collect Data 
+3. Demonstrate skills by working with the data 
+4. Analyze the data 
+5. Answer the Question 
+
+## Question for the Project 
+Although there weren't any specific groups of people I wasn't giving an answer to, my main question was:
+
+What noticeable trends are there in this group and how come they occur? 
+
 ## Overview of the Data
 For this study, I chose a close friends Discord Server. There are approximately 30 people in the server and there a few key demographics about the server that feels relevant to this project. 
 
