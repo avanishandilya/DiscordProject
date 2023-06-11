@@ -11,7 +11,7 @@ A more personal goal was to see the interactions of people and find noticeable t
 The general plan of the project was: 
 1. Find a question to answer 
 2. Collect Data 
-3. Demonstrate skills by working with the data 
+3. Demonstrate skills
 4. Analyze the data 
 5. Answer the Question 
 
@@ -54,6 +54,10 @@ The manner in which I collected the data is as follows:
 
 ## Processing the Data 
 As already noted, data cleaning did was not required. Before the processing of the data, here is an image of what the data looked like in Excel. 
+
+![Data in Excel](/Graphs/Excel Data.png)
+
+I did not do much to the data once I loaded it into my Jupyter Notebook. I converted it into a DataFrame. Here is the first few rows of the DataFrame. 
 
 
 
