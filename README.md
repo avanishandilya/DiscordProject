@@ -55,11 +55,24 @@ The manner in which I collected the data is as follows:
 ## Processing the Data 
 As already noted, data cleaning did was not required. Before the processing of the data, here is an image of what the data looked like in Excel. 
 
+The year 2023 has been updated on June 11th, 2023 at 1:30 PM. 
+
 ![Data in Excel](/Graphs/ExcelData.PNG)
 
 I did not do much to the data once I loaded it into my Jupyter Notebook. I converted it into a DataFrame. Here is the first few rows of the DataFrame. 
 
 ![DataFrame of Data](/Graphs/DataFrame.PNG)
+
+
+### Finding Averages
+
+First, I found the averages of each year from 2018 to 2023. To work with different types of objects, I created a Pandas series for each year. Once I found the averages for each year, I was able to graph the information to provide some overview of the messaging trends. 
+Additionally, in a second graph, I graphed each person's messages through the years, with the data points overlapping each other. From this graph, I was able to tell that the second graph seemed to mostly follow the trend of the overall average graph. 
+
+![Overall Trend of Messages of the Discord Server](/Graphs/OverallTrend.png)
+
+![Everyone's Messages Graphed Through the Years for Comparison](/Graphs/AllPeople.png)
+
 
 
 
