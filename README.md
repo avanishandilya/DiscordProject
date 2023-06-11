@@ -38,7 +38,7 @@ The manner in which I collected the data is as follows:
 2. Using the Discord search bar, I used the before and after search filters to search by year and person for every year from the start of the server until 2023. 
 3. I put in the information into the respective row in Excel. 
 4. Once I had found the number of messages for everyone, I then sorted the sheet from greatest number of messages 
-5.  I made a copy of this Excel sheet because for the first Excel sheet, I anonymized everyone by simply putting "Person 1, Person 2..." and so on until "Person 22".  
+5.  I made a copy of this Excel sheet because for the first Excel sheet, I anonymized everyone by simply putting "Person 1, Person 2..." and so on until "Person 22".  The second Excel sheet is to keep track of the names so if I ever want to change the dataset, then I can easily and accuaretly update the information. 
 
 
 ### Pros of the Data
@@ -50,6 +50,12 @@ The manner in which I collected the data is as follows:
 1. It is a very small dataset, so it does not represent all of the Discord population. 
 2. Since I was able to create the dataset, it did not provide much practice for data cleaning. Therefore, demonstration of that skill is limited. 
 3. It was a very time consuming and inefficient way of collecting the data. 
+
+
+## Processing the Data 
+As already noted, data cleaning did was not required. Before the processing of the data, here is an image of what the data looked like in Excel. 
+
+
 
 
 
