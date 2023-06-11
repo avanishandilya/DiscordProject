@@ -1,4 +1,4 @@
-# DiscordProject
+# Discord Project
 Discord is a messaging app that people use to connect with each other. It has grown in popularity over the years (Source 1). Personally, I have been a part of that growth in the past couple years. It interested me that around the same time the pandemic started, more and more people were joining Discord.  
 
 I became interested in trends of Discord servers. It was very interesting to see patterns as time goes on. Therefore, I decided to create my own dataset and analyze the data with Python and Pandas.
@@ -27,6 +27,7 @@ For this study, I chose a close friends Discord Server. There are approximately 
 1. The age group of this server are all around 19 - 21
 2. Most of the group was in college in 2021
 3. A few of the memebers were Discord bots 
+4. Most members are based in the United States
 
 
 ### Data Collection 
@@ -74,8 +75,25 @@ Additionally, in a second graph, I graphed each person's messages through the ye
 ![Everyone's Messages Graphed Through the Years for Comparison](/Graphs/AllPeople.png)
 
 
+## Overall Trends in the Data
+From the graphs above, the data starts in 2018. Since no data could be found prior to 2018, a strong conclusion is that the Discord server was created during 2018. The low number suggests that it might have been created in late 2018, since there could only be a short amount of time to send messages until 2019. 
 
+Furthermore, the graphs demonstrate spikes during 2020. The COVID-19 Pandemic first hit the United States in January 2020 and continued raging in March 2020 (Source 2). Many people were forced to do school or work from home, leading to an increase of online activity (Source 3). Since people had to stay away from one another, many turned to social media to keep in touch. During 2020, the increase in messages in this Discord servr suggest that the members decided to use Discord as a means of keeping in touch with one another. Thus, the pandmic contributed to the members messaging more during this eyar. 
 
+As mentioned earlier, one of the main demographsics of this group is that many of them started college in 2021. The graphs display a drop in messages in 2021. Starting college may have lead to a drop in messages sent due to transitioning to a new place and taking on a new kind of course load. Additionally, the members may have been reaching out to new friends to create a college social life. 
+
+As time goes on, the average number of messages per year keep decreasing. This Discord server was made while most members were in high school. Research shows that friends tend to grow apart in college due to a physical separation, academic work, and new friendships (Source 4). As college goes on, the members are phsically separated for most of the year. As a result of the separation and the academic work, members might find it harder to find time to stay connected to each other during college. 
+
+## Individual Trends in the Data
+When graphing the data to find trends, it was interesting to look at individuals and see what the graph might say for them. 
+
+Some graphs displayed 0 messages sent for several years before a sudden uptick in messages, like the ones below. This indicates that some people did not join the server at the very start and that the year that has the uptick marks the year that they joined the server. 
+
+![Example 1 of a Person Joining the Server Later](/Graphs/Person
 
 
 -https://discord.com/safety/360044149331-what-is-discord
+https://www.cdc.gov/museum/timeline/covid19.html#:~:text=January%2020%2C%202020,respond%20to%20the%20emerging%20outbreak.
+https://www.pewresearch.org/social-trends/2022/02/16/covid-19-pandemic-continues-to-reshape-work-in-america/#:~:text=Earlier%20in%20the%20pandemic%2C%20just,have%20changed%20since%20fall%202020.
+
+https://doi.org/10.1177/0265407584013001
