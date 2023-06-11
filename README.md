@@ -70,8 +70,10 @@ I did not do much to the data once I loaded it into my Jupyter Notebook. I conve
 First, I found the averages of each year from 2018 to 2023. To work with different types of objects, I created a Pandas series for each year. Once I found the averages for each year, I was able to graph the information to provide some overview of the messaging trends. 
 Additionally, in a second graph, I graphed each person's messages through the years, with the data points overlapping each other. From this graph, I was able to tell that the second graph seemed to mostly follow the trend of the overall average graph. 
 
+#### Overall Trend of Messages of the Discord Server
 ![Overall Trend of Messages of the Discord Server](/NewGraphs/OverallTrend.png)
 
+#### Everyone's Messages Graphed Through the Years for Comparison
 ![Everyone's Messages Graphed Through the Years for Comparison](/NewGraphs/AllPeople.png)
 
 # Analysis of the Data 
@@ -90,15 +92,19 @@ When graphing the data to find trends, it was interesting to look at individuals
 
 Some graphs displayed 0 messages sent for several years before a sudden uptick in messages, like the ones below. This indicates that some people did not join the server at the very start and that the year that has the uptick marks the year that they joined the server. 
 
+### Example 1 of a Person Joining the Server Later
 ![Example 1 of a Person Joining the Server Later](/NewGraphs/Person9.png)
 
+### Example 2 of a Person Joining the Server Later
 ![Example 2 of a Person Joining the Server Later](/NewGraphs/Person16.png)
 
 
 Though there were some trends, some graphs did not indicate a uniform trend nor explanations for the way the line looked. This could be due to people inherently not being social or simply not looking at Discord. 
 
+### Example 1 of a Person with no Trend
 ![Example 1 of a Person with no Trend](/NewGraphs/Person22.png)
 
+### Example 2 of a Person with no Trend
 ![Example 2 of a Person with no Trend](/NewGraphs/Person10.png)
 
 
