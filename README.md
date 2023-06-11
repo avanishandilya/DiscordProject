@@ -59,6 +59,8 @@ As already noted, data cleaning did was not required. Before the processing of t
 
 I did not do much to the data once I loaded it into my Jupyter Notebook. I converted it into a DataFrame. Here is the first few rows of the DataFrame. 
 
+![DataFrame of Data](/Graphs/DataFrame.png)
+
 
 
 
